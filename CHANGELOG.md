@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aifivem/ai-policealert/compare/v0.1.5...v0.1.6) (2026-11-15)
+
+
+### Miscellaneous Chores
+
+* **web:** ship the Chromium 144 build, without the CEF 103 colour fallbacks, built on the bun runtime ([dd06d0f](https://github.com/aifivem/ai-policealert/commit/dd06d0f5e765071db32cf72046e31a0e51637255))
+
 ## [0.1.5](https://github.com/aifivem/ai-policealert/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
