@@ -3,7 +3,7 @@ import {
   loadLocaleTexts,
   locationName,
   notify,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import type { PoliceAlert, Settings } from "common/alerts";
 import type { AlertCard, NuiMessage } from "common/nui";

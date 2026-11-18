@@ -1,5 +1,5 @@
-import { online, PlayerMap } from "@aifivem/lib/server";
-import type { DispatchAlert } from "@aifivem/shared";
+import { online, PlayerMap } from "@aicore8/lib/server";
+import type { DispatchAlert } from "@aicore8/shared";
 import { EVENTS, type PoliceAlert, type Settings } from "common/alerts";
 
 /** Live alerts the board keeps at most over every job (the oldest goes first); officers get at most `maxAlerts`. */
