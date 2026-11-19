@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.7](https://github.com/aicore8/ai-policealert/compare/v0.1.6...v0.1.7) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([c7472b1](https://github.com/aicore8/ai-policealert/commit/c7472b1092eb9c7ad57ca0e346dcec721a4f4ff7))
+
 ## [0.1.6](https://github.com/aicore8/ai-policealert/compare/v0.1.5...v0.1.6) (2026-11-15)
 
 
